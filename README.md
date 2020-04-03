@@ -24,7 +24,7 @@ Before starting to make souffle, please set the oven to 220 degrees. And then me
 
 100 gr souffle = 373 cal     
 
-[url=https://hizliresim.com/73quDi][img]https://i.hizliresim.com/73quDi.jpg[/img][/url]
+![Souffle](https://hizliresim.com/73quDi)
 
 
 AİLEMİN VÜCUT KiTLE ENDEKSİ     
