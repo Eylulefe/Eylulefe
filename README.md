@@ -2,11 +2,11 @@ Eylül Efe 9/A No:288
    
    
 INGREDIENTS :
-3 eggs,
-80 gr bitter chocolate,
-100 gr flour,
-50 gr butter,
-100 gr sugar,
+3 eggs    
+80 gr bitter chocolate    
+100 gr flour    
+50 gr butter     
+100 gr sugar     
 one pinch of salt 
 
 RECİPE
@@ -15,7 +15,7 @@ Before starting to make souffle, please set the oven to 220 degrees. And then me
 
 
 
-AİLEMİN VÜCUT KiTLE ENDEKSİ
+AİLEMİN VÜCUT KiTLE ENDEKSİ     
 Annem:24    
 Babam: 25    
 Kardeşim: 16    
