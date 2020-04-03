@@ -15,6 +15,8 @@ Before starting to make souffle, please set the oven to 220 degrees. And then me
 | INGREDIENTS | AMOUNT | CALORİES |
 | ----------- | ------ | -------- |
 |    Egg      |   3    |    215   |
+|Bitter Chocolate| 80 g|478.4|
+|Flour| 100 g|364|
 
 
 
