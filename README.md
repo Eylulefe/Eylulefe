@@ -16,7 +16,7 @@ Before starting to make souffle, please set the oven to 220 degrees. And then me
 
 
 AİLEMİN VÜCUT KiTLE ENDEKSİ
-Annem:25
+Annem:24
 Babam: 25
 Kardeşim: 16
-Ben: 22
+Ben: 21.5
