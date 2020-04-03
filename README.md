@@ -17,11 +17,9 @@ Before starting to make souffle, please set the oven to 220 degrees. And then me
 |    Egg      |   3    |    215   |
 |Bitter Chocolate| 80 g|478.4|
 |Flour| 100 g|364|
-
-
-
-
-
+|Butter|50 g|358.5|
+|Sugar|100 g|387|
+|Salt|2 g|0|
 
 
 100 gr souffle = 373 cal     
