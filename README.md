@@ -1,7 +1,26 @@
-Eylül Efe 9/A No:288
-   
-   
-INGREDIENTS:    
+Eylül Efe 9/A No:288     
+
+
+
+TÜRKÇE      
+ 
+Malzemeler:      
+3 yumurta     
+80 g bitter çikolata
+100 g un
+50 g tereyağı    
+100 g şeker     
+Bir tutam tuz
+ 
+Tarif:        
+Suffleyi yapmaya başlamadan önce fırını 220 dereceye ayarlayın. Ardından çikolata ve tereyağını teflon tavada eritin. Eridikleri zaman içine unu koyun ve karıştırın. Başka bir kaba yumurtaları ve şekeri ekleyin ve çırpın. Sonrasında çikolata karışımını kaba ekleyin ve hepsini birlikte karıştırın. Sonra karışımı daha küçük kaselere dökün ve pişirin. Afiyet Olsun!
+ 
+ 
+ 
+ 
+İNGİLİZCE      
+ 
+Ingredients:      
 3 eggs    
 80 gr bitter chocolate    
 100 gr flour    
@@ -9,8 +28,8 @@ INGREDIENTS:
 100 gr sugar     
 one pinch of salt 
 
-RECIPE:    
-Before starting to make souffle, please set the oven to 220 degrees. And then melt the chocolate and butter in a teflon pan. When they melt , add flour in it and mix it. Add eggs and sugar in an another bowl and beat them. And add salt. After that add the melted chocolate and butter in to a bowl and mix them together. Then you can pour them into the bowls and bake them. Bon appetit!
+Recipe:         
+Before starting to make souffle, please set the oven to 220 degrees. And then melt the chocolate and butter in a teflon pan. When they melt , add flour in it and mix it. Add eggs and sugar in an another bowl and beat them and add salt. After that add the chocolate mix in to a bowl and mix them together. Then you can pour the mixture into the smaller bowls and bake them. Bon Appetit!
 
 | INGREDIENTS | AMOUNT | CALORİES |
 | ----------- | ------ | -------- |
