@@ -2,7 +2,7 @@ Eylül Efe 9/A No:288
 
 
 
-TÜRKÇE      
+<h1>TÜRKÇE<h1>    
  
 Malzemeler:      
 3 yumurta     
@@ -18,7 +18,7 @@ Suffleyi yapmaya başlamadan önce fırını 220 dereceye ayarlayın. Ardından 
  
  
  
-<h1>İNGİLİZCE<h1>      
+<h2>İNGİLİZCE<h2>      
  
 Ingredients:      
 3 eggs    
@@ -45,7 +45,7 @@ Before starting to make souffle, please set the oven to 220 degrees. And then me
 
 (https://hizliresim.com/73quDi)  YAPTIĞIM SUFFLENİN RESMİ
 
-AİLEMİN VÜCUT KiTLE ENDEKSİ     
+<h3>AİLEMİN VÜCUT KiTLE ENDEKSİ<h3>     
 Annem:24    
 Babam: 25    
 Kardeşim: 16    
